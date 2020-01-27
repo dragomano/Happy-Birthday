@@ -4,7 +4,7 @@
 
 * **Author:** Bugo [dragomano.ru](https://dragomano.ru/mods/happy-birthday)
 * **License:** [MIT](https://github.com/dragomano/Happy-Birthday/blob/master/LICENSE)
-* **Compatible with:** SMF 2.0.*
+* **Compatible with:** SMF 2.1.*
 * **Hooks only:** Yes
 * **Languages:** Danish, English, German, Italian, Russian, Turkish, Ukrainian
 
