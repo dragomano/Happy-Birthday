@@ -1,0 +1,5 @@
+[center][color=red][size=16pt][b]Happy Birthday[/b][/size][/color]
+[color=blue][b][size=10pt]By Bugo[/size][/b][/color]
+
+[color=green]Display a cake on the right of the messages of users who have a birthday today.[/color]
+This mod uses [url=http://www.iloveicons.ru/2010/05/desserts_23.html]Desserts[/url] icon collection by Anna Kondratieva and [url=https://www.iconfinder.com/iconsets/ie_yummy]Yummi[/url] icon set by IconEden.[/center][hr]This work is licensed under the [url=https://github.com/dragomano/Clubbing/blob/master/LICENSE]MIT[/url] License
