@@ -1,5 +1,0 @@
-[center][color=red][size=16pt][b]Happy Birthday[/b][/size][/color]
-[color=blue][b][size=10pt]By Bugo[/size][/b][/color]
-
-[color=green]Демонстрация сладких угощений в правой части сообщений пользователей, у которых наступает день рождения.[/color]
-В модификации используются наборы иконок [url=http://www.iloveicons.ru/2010/05/desserts_23.html]Desserts[/url] Анны Кондратьевой и [url=https://www.iconfinder.com/iconsets/ie_yummy]Yummi[/url] с сайта IconEden.[/center][hr]Мод распространяется по лицензии [url=https://github.com/dragomano/Clubbing/blob/master/LICENSE]MIT[/url]

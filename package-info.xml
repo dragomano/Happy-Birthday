@@ -3,19 +3,17 @@
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>Bugo:Happy_Birthday</id>
 	<name>Happy Birthday</name>
-	<version>0.4</version>
+	<version>0.5</version>
 	<type>modification</type>
 
 	<install for="2.1.*">
-		<readme parsebbc="true" lang="russian">readme/russian.txt</readme>
-		<readme parsebbc="true" lang="english">readme/english.txt</readme>
 		<require-dir name="Themes" destination="$boarddir" />
 		<require-dir name="Sources" destination="$boarddir" />
-		<hook hook="integrate_prepare_display_context" function="HappyBirthday::prepareDisplayContext" file="$sourcedir/Class-HappyBirthday.php" />
+		<hook hook="integrate_prepare_display_context" function="HappyBirthday::prepareDisplayContext#" file="$sourcedir/Class-HappyBirthday.php" />
 	</install>
 
 	<uninstall for="2.1.*">
-		<hook hook="integrate_prepare_display_context" function="HappyBirthday::prepareDisplayContext" file="$sourcedir/Class-HappyBirthday.php" reverse="true" />
+		<hook hook="integrate_prepare_display_context" function="HappyBirthday::prepareDisplayContext#" file="$sourcedir/Class-HappyBirthday.php" reverse="true" />
 		<remove-dir name="$languagedir/HappyBirthday" />
 		<remove-dir name="$themedir/images/sweet" />
 		<remove-file name="$sourcedir/Class-HappyBirthday.php" />
